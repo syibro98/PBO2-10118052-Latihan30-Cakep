@@ -6,7 +6,7 @@
  * NAMA      : Bagus Syibro Malisi
  * KELAS     : PBO2
  * NIM       : 10118052
- * Deskripsi Program : Program ini bertujuan untuk memasukkan kata yoi dan enggak
+ * Deskripsi Program : Program ini bertujuan untuk memasukkan kata yoi dan enggak.
  * 
  */
  ```
